@@ -1,5 +1,7 @@
 # PESTFLY – Post-entry surveillance of the oriental fruit fly, *Bactrocera dorsalis*, via citizen science and pathway-based trapping
 
+**Technical approach:** Population genomics and COI analysis.
+
 Consolidated, project-level implementation of the 
 SNP- and COI-based origin-tracing workflow developed within the PESTFLY project.
 
